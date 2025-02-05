@@ -14,7 +14,7 @@ function App() {
                     <div className="flex items-center justify-between ">
                         <img
                             className="w-28 sm:w-36 lg:w-52 ml-4 sm:ml-8 pt-4"
-                            src="../public/images/Netflix_Logo.png"
+                            src="images/Netflix_Logo.png"
                             alt="logo_red"
                         />
                         <div className="flex mr-4 sm:mr-10">
@@ -55,7 +55,7 @@ function App() {
                                 Get Started
                                 <img
                                     className="w-4 md:w-7 pt-1 text-white"
-                                    src="../public/images/right-arrow-angle.png"
+                                    src="images/right-arrow-angle.png"
                                     alt="right-angle"
                                 />
                             </button>
